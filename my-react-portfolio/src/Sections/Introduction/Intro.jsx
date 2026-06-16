@@ -6,7 +6,7 @@ import { SmallSubTitle } from "../../ReusableComponents/Texts/SmallSubTitle"
 import evelynImage from "../../assets/cvimage/evelyn.png";
 import { ArrowDownAnimation } from "../../ReusableComponents/Animation/Arrow/ArrowDownAnimation";
 
-const introText = "Fueled by her love for visual storytelling, Evelyn approaches every step of the creative process with curiosity and a keen eye for detail. She has a degree in Photography and Fullstack Web Development, which she puts to good use when creating user-friendly applications on the daily."
+const introText = "Fueled by her love for visual storytelling, Evelyn approaches every step of the creative process with curiosity and a keen eye for detail. With a degree in Art Direction, Photography, and Fullstack Web Development, this website serves as a showcase of her coding skills through thoughtfully built, user-friendly applications."
 
 export const Intro = () => {
     return (
@@ -16,7 +16,7 @@ export const Intro = () => {
             </section>
             <section className="headings">
                 <SmallSubTitle className="subtitle" text={"This is Evelyn Del Carmen"} />
-                <MainTitle className="maintitle" text={"Welcome To"} />
+                <MainTitle className="maintitle" text={"Welcome,"} />
                 <MainTitle className="maintitle" text={"My Tech Portfolio"} />
             </section>
             <section className="intro-text">
