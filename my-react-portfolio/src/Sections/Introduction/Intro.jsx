@@ -16,8 +16,8 @@ export const Intro = () => {
             </section>
             <section className="headings">
                 <SmallSubTitle className="subtitle" text={"This is Evelyn Del Carmen"} />
-                <MainTitle className="maintitle" text={"Frontend Developer"} />
-                <MainTitle className="maintitle" text={"& Photographer"} />
+                <MainTitle className="maintitle" text={"Welcome To"} />
+                <MainTitle className="maintitle" text={"My Tech Portfolio"} />
             </section>
             <section className="intro-text">
                 <NormalText className="normaltext" text={introText} />
